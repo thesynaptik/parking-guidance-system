@@ -1,0 +1,5 @@
+1,admin,admin123,ADMIN
+2,entry1,entry123,ENTRY_OPERATOR
+3,exit1,exit123,EXIT_OPERATOR
+4,govany,g1234,ADMIN
+5,hassan,1234,ADMIN
